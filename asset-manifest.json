@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/://Rolkyssoh.github.io/monsters-rolodex/static/css/main.09f84f6d.chunk.css",
+    "main.js": "/://Rolkyssoh.github.io/monsters-rolodex/static/js/main.b76cc553.chunk.js",
+    "main.js.map": "/://Rolkyssoh.github.io/monsters-rolodex/static/js/main.b76cc553.chunk.js.map",
+    "runtime-main.js": "/://Rolkyssoh.github.io/monsters-rolodex/static/js/runtime-main.fdc12516.js",
+    "runtime-main.js.map": "/://Rolkyssoh.github.io/monsters-rolodex/static/js/runtime-main.fdc12516.js.map",
+    "static/js/2.7aaef059.chunk.js": "/://Rolkyssoh.github.io/monsters-rolodex/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/://Rolkyssoh.github.io/monsters-rolodex/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/://Rolkyssoh.github.io/monsters-rolodex/index.html",
+    "precache-manifest.f115b0bca8267d5753848a0fcf6c8895.js": "/://Rolkyssoh.github.io/monsters-rolodex/precache-manifest.f115b0bca8267d5753848a0fcf6c8895.js",
+    "service-worker.js": "/://Rolkyssoh.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.09f84f6d.chunk.css.map": "/://Rolkyssoh.github.io/monsters-rolodex/static/css/main.09f84f6d.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/://Rolkyssoh.github.io/monsters-rolodex/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdc12516.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.09f84f6d.chunk.css",
+    "static/js/main.b76cc553.chunk.js"
+  ]
+}
